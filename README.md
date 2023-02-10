@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kirtiraj-Bobade
-- 👀 I’m interested in ReactJS,JavaScript,CSS,HTML.
+- 👀 I’m interested in ReactJS,JavaScript,CSS,HTML and Laravel.
 - 🌱 I’m currently learning JavaScript Libraries and Frameworks.
 - 💞️ I’m looking to collaborate on React JS UI Development.
 - 📫 How to reach me on email: kirtirajdbobade@gmail.com
